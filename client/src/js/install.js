@@ -12,7 +12,7 @@ butInstall.addEventListener('click', async () => {
     butInstall.classList.add('hidden');
     window.deferredPrompt.prompt();
     const {outcome}= await window.deferredPrompt.userChoice;
-    console.log(`User response to the install prompt: ${outcome}`);
+    console.log(`The user's action in response to the installation request window: ${outcome}`);
     window.deferredPrompt= null;
 });
 
