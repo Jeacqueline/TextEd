@@ -26,10 +26,11 @@ module.exports = () => {
         swSrc: "./src-sw.js",
         swDest: "src-sw.js"
       }),
+      
       new WebpackPwaManifest({
         name: "Just Another Text Editor",
         short_name:"J.A.T.E",
-        description: "Takes notes with JS syntax",
+        description: "Takes notes with JS syntax by Jeacqueline",
         theme_color:"#225ca3",
         background_color: "#225ca3",
         fingerprints: false,
@@ -39,7 +40,7 @@ module.exports = () => {
         icons:[
           {
             src: path.resolve("src/images/logo.png"),
-            sizes:[96,128,192,256,384,512],
+            sizes:[96, 128, 192, 256, 384, 512],
             destination: path.join("assets","icons"),
           },
         ],
