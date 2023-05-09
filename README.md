@@ -66,7 +66,9 @@ THEN I should have proper build scripts for a webpack application
 ![Reference image.](./Assets/J.A.T.E.png)
 ![Reference image.](./Assets/createdheroku.png)
 ![Reference image.](./Assets/herokuopen.png)
-[Video TextEd](./Assets/J.A.T.E.mp4)
+![TextEd](./Assets/J.A.T.E.gif)
+
+
 
 
 [GitHub/Jeacqueline TextEd](https://github.com/Jeacqueline/TextEd)
