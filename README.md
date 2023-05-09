@@ -64,9 +64,11 @@ THEN I should have proper build scripts for a webpack application
 
 
 ![Reference image.](./Assets/J.A.T.E.png)
+![Reference image.](./Assets/createdheroku.png)
+![Reference image.](./Assets/herokuopen.png)
+![Reference image.](./Assets/J.A.T.E.mp4)
+
+
 [GitHub/Jeacqueline TextEd](https://github.com/Jeacqueline/TextEd)
 
-[Heroku/Jeacqueline TextEd]()
-
-[Video/ Jeacqueline/ TextEd]()
-
+[Heroku/Jeacqueline TextEd](https://texted.herokuapp.com/)
